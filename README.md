@@ -1,2 +1,2 @@
-# my-works
-Some of my works
+# Hotel System
+Hotel System in Java
